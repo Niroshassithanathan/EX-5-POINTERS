@@ -126,14 +126,7 @@ Thus , The C program has been executed successfully.
 # EX-5-D-STRINGS
 ## AIM :
 Write C program for the below pyramid string pattern.
-Enter a string: PROGRAM
-Enter number of rows: 5
-     p
-    R O
-   G R A
-  M P R O
- G R A M P
-R O G R A M
+
 ## ALGORITHAM :
 1.Start
 
