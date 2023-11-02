@@ -1,4 +1,4 @@
-# EX-5-POINTERS
+# EX-5-A-POINTERS
 ## AIM :
 Write a C program to convert a 23.65 into 25 using pointer.
 ## ALGORITHAM :
